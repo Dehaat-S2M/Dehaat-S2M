@@ -1,0 +1,6 @@
+{
+  "name": "AssetHub",
+  "description": "Professional organization asset management system for tracking assets, employee check-in/out, audit trails, categories, locations, vendors, and operational reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
